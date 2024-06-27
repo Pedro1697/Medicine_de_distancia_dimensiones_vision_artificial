@@ -1,0 +1,15 @@
+-Las fotos son las tomadas de la última prueba
+-Los puntos xlsx son los datos para calibración y obtención de los polinomios como 
+el usado para la mant
+-manta.py programa utilizado para plotear la manta
+-profundLaser.py programa utilizado para obtener la calibración de distancia con respecto 
+a la pared
+-Obtencion_Ancho_alto.py de manera manual se hace el estimado de pixeles para obtener la
+calibración del ancho y alto
+-Medicion_Alto_Ancho.py cuenta la diferencia de pixeles a los alto y ancho por
+seleccion del usuario
+-Prac3.py programa final de la practica
+-El programa primero calcula la distancia a la pared por lo cual se toma el fondo, se enciende 
+el laser. Posteriormente, se pone el objeto frente a la camara, se presiona enter para continuar
+y se toma la foto para calcular las dimensiones del objeto. Esto para evitar problemas de
+calculo en la distancia a la pared.
